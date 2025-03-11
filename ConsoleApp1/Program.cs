@@ -15,3 +15,4 @@ while (TheoryLessons == "0" && DrivingLessons == "0")
     DrivingLessons = Console.ReadLine();
 }
 
+d1.TakeTest
