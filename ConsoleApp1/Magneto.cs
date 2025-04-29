@@ -1,7 +1,9 @@
 public class Magneto : SuperVillain
 {
-    public void magneto
+    public void Magneto
     {
+        Name = "Magneto"
+        TheoryLessons = 5;
 
     }
 }
